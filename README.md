@@ -1,1 +1,1 @@
-[# Knowledge](https://github.com/tranotheron/Knowledge/wiki)
+# [Knowledge](https://github.com/tranotheron/Knowledge/wiki)
